@@ -1,3 +1,4 @@
 /.vs
 /AspNetCoreLearning/.vs
-bin
+/AspNetCoreLearning/RazorPagesMovie/bin
+/AspNetCoreLearning/RazorPagesMovie/obj
